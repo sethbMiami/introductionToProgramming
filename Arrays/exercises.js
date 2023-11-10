@@ -43,7 +43,7 @@ console.log(typeof arrayLength);
 console.log(Array.isArray(arrayLength));
 
 //returns false
-console.log([1,2,3] === [1,2,3]);
+//console.log([1,2,3] === [1,2,3]);
 
 let a = ["e", "c", "h", "b", "d", "a"]
 a.sort()
